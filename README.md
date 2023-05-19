@@ -8,24 +8,27 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+To run the code, ensure you have the latest version of sklearn, and install the imbalanced-learn library.
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using lung cancer data to better understand:
+For this project, I was interestested in using lung cancer data to better understand its different risk factors. This has led me to have a think about the following three questions:
 
-1.
-2.
-3.
+1. Are we all equal facing lung cancer?
+2. To what extent are men and women's social behaviours different and how does that affect their risk of lung cancer?
+3. Can we build a strong model to predict when someone has lung cancer?
 
 
 
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+There are 3 notebooks available here to showcase work related to the above questions:
+1.  "AreWeAllEqual.ipynb" - to explore the data and answer the first question stated above. 
+2.  "MenVsWomen.ipynb" - to answer the second question stated above.
+3.  "PredictingLungCancer.ipynb" - to answer the final question.
+Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
 
 ## Results<a name="results"></a>
 
