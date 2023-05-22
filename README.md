@@ -32,7 +32,7 @@ Each of the notebooks is exploratory in searching through the data pertaining to
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](type link.com).
+The main findings of the code can be found at the post available [here](https://medium.com/@paola_croll/gender-in-equality-does-it-apply-to-lung-cancer-76964b204a77).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
